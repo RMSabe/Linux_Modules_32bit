@@ -1,4 +1,7 @@
 # Linux_Modules_32bit
+
+!!DEPRECATED!! Look For My "GNU-Linux_KernelModule_MMU" repository.
+
 General Purpose Modules for 32bit GNU-Linux Systems.
 
 Here I post Linux Kernel Modules that I made. This specific repository is meant for Linux 32bit Kernel. They might not run properly on 64bit Linux Kernel.
